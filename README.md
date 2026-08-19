@@ -101,8 +101,8 @@ I design and build digital experiences, combining UI/UX design, prototyping and 
 ### 📈 GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=241322&show_icons=true&hide_border=true&theme=transparent" alt="Xander's GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=241322&layout=compact&hide_border=true&theme=transparent" alt="Xander's most used languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=xander-poalses&show_icons=true&hide_border=true&theme=transparent" alt="Xander's GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xander-poalses&layout=compact&hide_border=true&theme=transparent" alt="Xander's most used languages"/>
 </p>
 
 ---
