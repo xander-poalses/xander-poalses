@@ -12,7 +12,7 @@ I design and build digital experiences, combining UI/UX design, prototyping and 
 
 * 🎓 I'm a final-year **UI/UX Design & Interactive Development** student at Open Window
 
-* 💼 I'm currently gaining industry experience as a **UX Design Intern**, working on system interfaces, user flows and application testing
+* 💼 I'm currently gaining industry experience as a **Intern**, working on system interfaces, user flows and application testing
 
 * ⚛️ I primarily work with **React and React Native**, with experience across web, mobile and desktop development
 
