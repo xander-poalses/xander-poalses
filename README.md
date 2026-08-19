@@ -107,6 +107,8 @@ I design and build digital experiences, combining UI/UX design, prototyping and 
 
 ---
 
+---
+
 ### 🤝 Connect With Me
 
 <p align="left">
