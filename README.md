@@ -22,16 +22,6 @@ I design and build digital experiences, combining UI/UX design, prototyping and 
 
 ---
 
-### 🚀 What I'm Working On
-
-* 📊 Currently developing and maintaining **[MetaCrown](https://metacrown.co.za/)**, a deployed Clash Royale analytics platform
-
-* 📱 Currently refining **[Revvy](https://github.com/241322/revvy_app)**
-
-* 🦒 One of my favourite completed projects is **[The Drunken Giraffe](https://github.com/241322/Drunken-Sailor)**, an online e-commerce store
-
----
-
 ### 🛠️ Development
 
 <p align="left">
