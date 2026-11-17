@@ -19,12 +19,10 @@ I design apps in Figma and build them in React and React Native, from user flows
 
 ## Featured projects
 
-| Project | What it is | Built with |
-|---|---|---|
-| [**SKOP**](https://github.com/xander-poalses/SKOP-mobile-app) | Helps people stop smoking or vaping, with a quit plan, savings tracking and a distraction game | React Native, Expo, TypeScript |
-| [**KNOGO**](https://github.com/xander-poalses/KNOGO) | Checks whether a place is really open and serving before you make the trip | React Native, Expo |
-| [**MetaCrown**](https://github.com/xander-poalses/MetaCrown) | Clash Royale analytics and deck builder, live at [metacrown.co.za](https://metacrown.co.za) | React, Node.js |
-| [**Projello**](https://github.com/xander-poalses/Xander-Projello-Management-System) | Lightweight project management for the construction industry | C#, .NET |
+- [**SKOP**](https://github.com/xander-poalses/SKOP-mobile-app): helps people stop smoking or vaping, with a quit plan, savings tracking and a distraction game. <sub>React Native, Expo, TypeScript</sub>
+- [**KNOGO**](https://github.com/xander-poalses/KNOGO): checks whether a place is really open and serving before you make the trip. <sub>React Native, Expo</sub>
+- [**MetaCrown**](https://github.com/xander-poalses/MetaCrown): Clash Royale analytics and deck builder, live at [metacrown.co.za](https://metacrown.co.za). <sub>React, Node.js</sub>
+- [**Projello**](https://github.com/xander-poalses/Xander-Projello-Management-System): lightweight project management for the construction industry. <sub>C#, .NET</sub>
 
 ## Tools
 
