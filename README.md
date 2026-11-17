@@ -19,27 +19,35 @@ I design apps in Figma and build them in React and React Native, from user flows
 
 ## Featured projects
 
-### [SKOP](https://github.com/xander-poalses/SKOP-mobile-app)
-
-Helps people stop smoking or vaping, with a quit plan, savings tracking and a distraction game. <sub>React Native, Expo, TypeScript</sub>
-
-<a href="https://github.com/xander-poalses/SKOP-mobile-app"><img src="assets/skop.jpg" width="100%" alt="SKOP app on two phones, showing the quit date countdown and the insights screen"/></a>
-
 ### [KNOGO](https://github.com/xander-poalses/KNOGO)
 
 Checks whether a place is really open and serving before you make the trip. <sub>React Native, Expo</sub>
 
 <a href="https://github.com/xander-poalses/KNOGO"><img src="assets/knogo.jpg" width="100%" alt="KNOGO app on two phones, showing a place marked open and the Know before you go home screen"/></a>
 
+### [SKOP](https://github.com/xander-poalses/SKOP-mobile-app)
+
+Helps people stop smoking or vaping, with a quit plan, savings tracking and a distraction game. <sub>React Native, Expo, TypeScript</sub>
+
+<a href="https://github.com/xander-poalses/SKOP-mobile-app"><img src="assets/skop.png" width="100%" alt="SKOP app on two phones, showing the quit date countdown and the insights screen"/></a>
+
 ### [Projello](https://github.com/xander-poalses/Xander-Projello-Management-System)
 
 Lightweight project management for the construction industry. <sub>C#, .NET</sub>
 
-<a href="https://github.com/xander-poalses/Xander-Projello-Management-System"><img src="assets/projello.jpg" width="100%" alt="Projello logo, a bear mascot next to the Projello wordmark"/></a>
+<a href="https://github.com/xander-poalses/Xander-Projello-Management-System"><img src="assets/projello.jpg" width="100%" alt="Projello project management screen listing clients and project statuses"/></a>
 
 ### [MetaCrown](https://github.com/xander-poalses/MetaCrown)
 
 Clash Royale analytics and deck builder, live at [metacrown.co.za](https://metacrown.co.za). <sub>React, Node.js</sub>
+
+<a href="https://metacrown.co.za"><img src="assets/metacrown.jpg" width="100%" alt="MetaCrown home page with the MetaCrown logo between the blue and red kings"/></a>
+
+### [The Drunken Giraffe](https://github.com/xander-poalses/The-Drunken-Giraffe)
+
+Store with a game-based sign-in: sort the bottles onto the right shelves to log in, with a form fallback. <sub>React, Node.js, Express, MongoDB</sub>
+
+<a href="https://github.com/xander-poalses/The-Drunken-Giraffe"><img src="assets/drunken-giraffe.jpg" width="100%" alt="The Drunken Giraffe sign-in game, asking you to sort whiskey, wine and beer bottles onto shelves"/></a>
 
 ## Tools
 
