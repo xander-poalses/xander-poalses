@@ -47,7 +47,7 @@ Clash Royale analytics and deck builder, live at [metacrown.co.za](https://metac
 
 Store with a game-based sign-in: sort the bottles onto the right shelves to log in, with a form fallback. <sub>React, Node.js, Express, MongoDB</sub>
 
-<a href="https://github.com/xander-poalses/The-Drunken-Giraffe"><img src="assets/drunken-giraffe.jpg" width="100%" alt="The Drunken Giraffe home page, showing a craft whiskey bottle beside the store name"/></a>
+<a href="https://github.com/xander-poalses/The-Drunken-Giraffe"><img src="assets/drunken-giraffe-home.jpg" width="100%" alt="The Drunken Giraffe home page, showing a craft whiskey bottle beside the store name"/></a>
 
 ## Tools
 
