@@ -19,10 +19,27 @@ I design apps in Figma and build them in React and React Native, from user flows
 
 ## Featured projects
 
-- [**SKOP**](https://github.com/xander-poalses/SKOP-mobile-app): helps people stop smoking or vaping, with a quit plan, savings tracking and a distraction game. <sub>React Native, Expo, TypeScript</sub>
-- [**KNOGO**](https://github.com/xander-poalses/KNOGO): checks whether a place is really open and serving before you make the trip. <sub>React Native, Expo</sub>
-- [**MetaCrown**](https://github.com/xander-poalses/MetaCrown): Clash Royale analytics and deck builder, live at [metacrown.co.za](https://metacrown.co.za). <sub>React, Node.js</sub>
-- [**Projello**](https://github.com/xander-poalses/Xander-Projello-Management-System): lightweight project management for the construction industry. <sub>C#, .NET</sub>
+### [SKOP](https://github.com/xander-poalses/SKOP-mobile-app)
+
+Helps people stop smoking or vaping, with a quit plan, savings tracking and a distraction game. <sub>React Native, Expo, TypeScript</sub>
+
+<a href="https://github.com/xander-poalses/SKOP-mobile-app"><img src="assets/skop.jpg" width="100%" alt="SKOP app on two phones, showing the quit date countdown and the insights screen"/></a>
+
+### [KNOGO](https://github.com/xander-poalses/KNOGO)
+
+Checks whether a place is really open and serving before you make the trip. <sub>React Native, Expo</sub>
+
+<a href="https://github.com/xander-poalses/KNOGO"><img src="assets/knogo.jpg" width="100%" alt="KNOGO app on two phones, showing a place marked open and the Know before you go home screen"/></a>
+
+### [Projello](https://github.com/xander-poalses/Xander-Projello-Management-System)
+
+Lightweight project management for the construction industry. <sub>C#, .NET</sub>
+
+<a href="https://github.com/xander-poalses/Xander-Projello-Management-System"><img src="assets/projello.jpg" width="100%" alt="Projello logo, a bear mascot next to the Projello wordmark"/></a>
+
+### [MetaCrown](https://github.com/xander-poalses/MetaCrown)
+
+Clash Royale analytics and deck builder, live at [metacrown.co.za](https://metacrown.co.za). <sub>React, Node.js</sub>
 
 ## Tools
 
